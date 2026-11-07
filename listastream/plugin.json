@@ -5,10 +5,10 @@
   "versionName": "1.0.0",
   "description": "Gestiona y reproduce tus listas M3U e IPTV",
   "baseUrl": "listastream://local",
-  "categories": ["LiveTV", "Movies", "Series"],
-  "iconUrl": "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/refs/heads/main/listastream/icon.png",
+  "categories": ["LiveTV"],
+  "iconUrl": "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/main/listastream/icon.png",
   "authors": ["Isaxd183"],
-  "languages": ["es", "en", "all"],
+  "languages": ["es", "en"],
   "preferences": [
     {
       "key": "cat_add",
