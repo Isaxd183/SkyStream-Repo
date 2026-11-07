@@ -1,9 +1,9 @@
 {
   "name": "Isaxd183 SkyStream Repo",
   "packageName": "com.isaxd183.listastream.repo",
-  "manifestVersion": 1,
+  "manifestVersion": 3,
   "description": "Plugins SkyStream por Isaxd183",
   "pluginLists": [
-    "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/main/plugins.json"
+    "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/main/dist/plugins.json"
   ]
 }
