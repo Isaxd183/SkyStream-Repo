@@ -3,7 +3,14 @@
     "packageName": "com.isaxd183.listastream",
     "name": "ListaStream",
     "version": 1,
-    "url": "listastream/plugin.js",
-    "pluginJson": "listastream/plugin.json"
+    "versionName": "1.0.0",
+    "baseUrl": "listastream://local",
+    "description": "Gestiona y reproduce tus listas M3U e IPTV",
+    "authors": ["Isaxd183"],
+    "languages": ["es", "en"],
+    "categories": ["LiveTV"],
+    "iconUrl": "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/main/listastream/icon.png",
+    "url": "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/main/listastream/plugin.js",
+    "pluginJson": "https://raw.githubusercontent.com/Isaxd183/SkyStream-Repo/main/listastream/plugin.json"
   }
 ]
