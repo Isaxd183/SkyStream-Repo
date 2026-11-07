@@ -1,0 +1,9 @@
+[
+  {
+    "packageName": "com.isaxd183.listastream",
+    "name": "ListaStream",
+    "version": 1,
+    "url": "listastream/plugin.js",
+    "pluginJson": "listastream/plugin.json"
+  }
+]
